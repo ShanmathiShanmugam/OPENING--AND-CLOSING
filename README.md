@@ -16,10 +16,6 @@ Perform opening operation and closing operations.
 Display the result.
 
 ## Program:
-```
-Developed by : J.JENISHA
-Reg.No. : 212222230056
-```
 
 ### Import the necessary packages
 ``` Python
